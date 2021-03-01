@@ -2,7 +2,7 @@
 
 <p align="center">
  <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
-  <br><br>
+  <br>
   <samp>
 - Hey!:wave: I'm Miraj Vyas. A Software Developer :computer:- 
    <br>
@@ -16,8 +16,8 @@
 Flutter | Dart | Java | Android | C | Ajava
 <br>
 HTML | CSS | Javacript | MySQL | Firebase | AWS
+<br><br>
 <p align="center">    
- <br><br>
  <samp>
   Contact me on 💬 <a href="https://www.instagram.com/miraj_1999/"> Instagram</a> or 📫 <a href="mailto:miraj12vyas@gmail.com"> Send an Email</a>
  </samp>
