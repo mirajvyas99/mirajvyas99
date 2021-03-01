@@ -7,7 +7,7 @@
 - Hey!:wave: I'm Miraj Vyas. A Software Developer :computer:- 
    <br>
     - I’m working on Application Development :iphone:- 
-    <br><a href="https://www.linkedin.com/in/miraj-vyas"> Linkedin Profile </a>
+    <br><a href="https://www.linkedin.com/in/miraj-vyas"> LinkedIn Profile </a>
    </samp>
 </p>
    <br>
