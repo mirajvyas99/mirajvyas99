@@ -8,7 +8,8 @@ I'm Miraj Vyas. A Software Developer.
    <br>
     - I’m working on something Application Development.
     - <br><br>
-    - ## Technical Skills:
+    ## Technical Skills:
+   <br>
 - Flutter | Dart | Java | Android | C | Ajava
 - HTML | CSS | Javacript | Firebase | AWS
      <br><br>Contact me on 💬 <a href="https://www.instagram.com/miraj_1999/"> Instagram</a> or 📫 <a href="mailto:miraj12vyas@gmail.com"> Send an Email</a>
