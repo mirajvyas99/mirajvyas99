@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ... GitHub
 - 💬 Ask me about ... Java,Flutter,
 - 📫 How to reach me: ...Instagram = https://www.instagram.com/miraj_1999/
-- ⚡ Fun fact: ... The more you Learn, the more you Earn.
+- ⚡ Thought: ... The more you Learn, the more you Earn.
 
