@@ -5,7 +5,8 @@
   <br><br>
   <samp>
 I'm Miraj Vyas. A Software Developer.
-    - 🔭 I’m working on something Application Development:) 
+   <br>
+    - 🔭 I’m working on something Application Development.
      <br><br>Contact me on 💬<a href="https://www.instagram.com/miraj_1999/">Instagram</a> or 📫<a href="mailto:miraj12vyas@gmail.com">Send an Email</a>
   </samp>
 </p>
