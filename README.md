@@ -13,9 +13,9 @@
    <br>
    <h2><b>Technical Skills:</b></h2>
    <br>
-Flutter | Dart | Java | Android | C | Ajava
+Flutter | Dart | Java | Android | C | Ajava | HTML 
 <br>
-HTML | CSS | Javacript | MySQL | Firebase | AWS
+CSS | Javacript | MySQL | Firebase | AWS | Python
 <br><br>
 <p align="center">    
  <samp>
