@@ -6,7 +6,7 @@
   <samp>
 - Hey!:wave: I'm Miraj Vyas. A Software Developer :computer:- 
    <br>
-    - I’m working on Application Development :computer:- 
+    - I’m working on Application Development :iphone:- 
    </samp>
 </p>
 
