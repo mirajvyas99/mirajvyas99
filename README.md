@@ -9,8 +9,7 @@
     - I’m working on Application Development :iphone:- 
    </samp>
 </p>
-
-   <br><br>
+   <br>
    <h2><b>Technical Skills:</b></h2>
    <br>
 Flutter | Dart | Java | Android | C | Ajava
