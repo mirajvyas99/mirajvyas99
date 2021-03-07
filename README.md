@@ -16,7 +16,9 @@
 Flutter | Dart | Java | Android | C | Ajava | HTML 
 <br>
 CSS | Javacript | MySQL | Firebase | AWS | Python
-<br><br>
+<br>
+<br>
+<br>
 <p align="center">    
  <samp>
   Contact me on 💬 <a href="https://www.instagram.com/miraj_1999/"> Instagram</a> or 📫 <a href="mailto:miraj12vyas@gmail.com"> Send an Email</a>
