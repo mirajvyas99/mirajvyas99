@@ -4,7 +4,7 @@
  <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
   <br>
   <samp>
-- Hey!:wave: I'm Miraj Vyas. A Software Developer :computer:- 
+- Hey!:wave: I'm Miraj Vyas. A Computer Engineer :computer:- 
    <br>
     - I’m working on Application Development :iphone:- 
     <br><a href="https://www.linkedin.com/in/miraj-vyas"> LinkedIn Profile </a>
