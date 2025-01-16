@@ -4,7 +4,7 @@
  <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
   <br>
   <samp>
-- Hey! I'm Miraj Vyas. A Computer Engineer - 
+<h3>- Hey! I'm Miraj Vyas. A Computer Engineer -</h3> 
    <br>
     - I am currently seeking new career opportunities that align with my skills and experience in software development and testing - 
     <br><a href="https://www.linkedin.com/in/miraj-vyas"> LinkedIn Profile </a>
